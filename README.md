@@ -14,6 +14,11 @@ It supports a variety of languages including English, French, Spanish, German, T
   🎨 Dynamic color scheme for a visually appealing interface.
 
 
+Linked In post -1 : [https://www.linkedin.com/feed/update/urn:li:activity:7092955319743483905/]
+
+Linked In post -2 : [https://www.linkedin.com/feed/update/urn:li:activity:7092911852036227072/]
+
+
 ## Contributions
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to create a pull request.
 
